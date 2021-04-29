@@ -38,7 +38,7 @@ function iniciarJogo(){
         x: snakeX,
         y: snakeY
     }
- //lethicia 
+ // paramos na aula 2
     snake.unshift(newHead);
     
 }
